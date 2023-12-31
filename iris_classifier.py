@@ -1,3 +1,7 @@
+# Iris Flower Classifier
+# Author: Nicholas Gulrajani 
+# Date: 12-31-2023
+
 import numpy as np
 from sklearn.tree import DecisionTreeClassifier  
 from sklearn.ensemble import RandomForestClassifier
